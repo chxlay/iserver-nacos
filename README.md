@@ -1,4 +1,4 @@
-### 这是整合 nacos 源码模式启动的方式整合 Nacos服务到自己微服务示例项目
+### 这是整合 nacos 源码模式启动的方式整合 Nacos服务到自己微服务示例项目(不再维更)
 #### 源码来自 alibaba 官方开源项目： [nacos](https://github.com/alibaba/nacos)
 #### 文献参考 ：[Nacos官方文档](https://nacos.io/zh-cn/docs/v2/quickstart/quick-start.html)
 
